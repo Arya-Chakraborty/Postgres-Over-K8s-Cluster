@@ -1,1 +1,1 @@
-# Postgress-Over-K8s-Cluster
+# Postgres-Over-K8s-Cluster
